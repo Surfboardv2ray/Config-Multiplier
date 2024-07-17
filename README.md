@@ -1,5 +1,9 @@
-# IPTest
-Use a single v2ray vmess/vless config to create multiple with different IP addresses.
+<h1 align="center">IPTest</h1>
+<h2 align="center">Use a single v2ray vmess/vless config to create multiple with different IP addresses.</h2>
+
+* ### Readme in [🇮🇷 Farsi](https://github.com/Surfboardv2ray/IPTest/blob/main/README-fa.md)
+
+![0](https://raw.githubusercontent.com/Ptechgithub/configs/main/media/line.gif)
 
 # Usage
 
