@@ -85,7 +85,7 @@ def process_proxies(input_file, ips_file, output_file):
 
 # Example usage
 input_file = 'config.txt'
-ips_file = 'Iips.txt'
+ips_file = 'ips.txt'
 output_file = 'output'
 
 process_proxies(input_file, ips_file, output_file)
